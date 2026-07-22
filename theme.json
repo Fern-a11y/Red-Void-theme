@@ -146,20 +146,20 @@
       "#cc2222"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffffff",
-      "#000000"
+      "#ff3333",
+      "#aa1111"
     ],
     "INTERACTIVE_HOVER": [
-      "#ff6666",
-      "#661111"
+      "#ff5555",
+      "#cc2222"
     ],
     "INTERACTIVE_MUTED": [
       "#222222",
       "#b8b8b8"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ffbbbb",
-      "#aa1111"
+      "#ff6666",
+      "#cc2222"
     ],    "MENTION_BACKGROUND": [
       "#050505",
       "#e8dddd"

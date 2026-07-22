@@ -160,9 +160,6 @@
     "INTERACTIVE_NORMAL": [
       "#ff6666",
       "#cc2222"
-    ],    "MENTION_BACKGROUND": [
-      "#050505",
-      "#e8dddd"
     ],
     "MENTION_FOREGROUND": [
       "#ff3333",

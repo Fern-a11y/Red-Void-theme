@@ -1,7 +1,7 @@
 {
   "name": "Red Void",
   "description": "Deep black meets electric red. Dark and clean.",
-  "version": "1.2",
+  "version": "1.1",
   "authors": [
     {
       "name": "rik.msi",
@@ -159,7 +159,10 @@
     ],
     "INTERACTIVE_NORMAL": [
       "#ff6666",
-      "#cc2222"
+      "#aa1111"
+    ],    "MENTION_BACKGROUND": [
+      "#050505",
+      "#e8dddd"
     ],
     "MENTION_FOREGROUND": [
       "#ff3333",
@@ -360,11 +363,10 @@
   "rawColors": {
     "PRIMARY_100": "#ffffff",
     "PRIMARY_200": "#ffe8e8",
-    "BRAND_300": "#5865F2",
-    "BRAND_360": "#5865F2",
-    "BRAND_500": "#5865F2",
-    "BRAND_560": "#4752C4",
-    "BRAND_600": "#3C45A5"
+    "PRIMARY_300": "#ff9999",
+    "PRIMARY_360": "#ff3333",
+    "PRIMARY_400": "#cc2222",
+    "PRIMARY_600": "#050505",
     "PRIMARY_630": "#080808",
     "BRAND_300": "#ff3333",
     "BRAND_360": "#ff3333",

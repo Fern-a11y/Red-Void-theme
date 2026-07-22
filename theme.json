@@ -360,10 +360,11 @@
   "rawColors": {
     "PRIMARY_100": "#ffffff",
     "PRIMARY_200": "#ffe8e8",
-    "PRIMARY_300": "#ff9999",
-    "PRIMARY_360": "#ff3333",
-    "PRIMARY_400": "#cc2222",
-    "PRIMARY_600": "#050505",
+    "BRAND_300": "#5865F2",
+    "BRAND_360": "#5865F2",
+    "BRAND_500": "#5865F2",
+    "BRAND_560": "#4752C4",
+    "BRAND_600": "#3C45A5"
     "PRIMARY_630": "#080808",
     "BRAND_300": "#ff3333",
     "BRAND_360": "#ff3333",
